@@ -1,2 +1,2 @@
-# ML_Pipeline-_DVC_S3
-in this repo i practise end to pipeline using DVC and S3
+# ML_Pipeline_with_DVC_S3
+In this repo i practised end to pipeline using DVC and S3.
